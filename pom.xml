@@ -5,7 +5,7 @@
 
     <groupId>com.serega</groupId>
     <artifactId>petclinic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.3-SNAPSHOT</version>
     <modules>
         <module>pet-clinic-data</module>
         <module>pet-clinic-web</module>

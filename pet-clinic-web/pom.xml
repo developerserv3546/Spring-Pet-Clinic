@@ -5,7 +5,7 @@
     <parent>
         <artifactId>petclinic</artifactId>
         <groupId>com.serega</groupId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.3-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -27,7 +27,7 @@
         <dependency>
             <artifactId>pet-clinic-data</artifactId>
             <groupId>com.serega</groupId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.3-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
