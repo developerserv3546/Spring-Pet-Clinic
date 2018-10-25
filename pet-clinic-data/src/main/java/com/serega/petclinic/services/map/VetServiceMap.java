@@ -1,11 +1,12 @@
 package com.serega.petclinic.services.map;
 
 import com.serega.petclinic.model.Vet;
-import com.serega.petclinic.services.CrudService;
 import com.serega.petclinic.services.VetService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
+@Service
 public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetService {
 
     @Override
