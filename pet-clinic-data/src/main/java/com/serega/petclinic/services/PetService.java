@@ -1,5 +1,7 @@
 package com.serega.petclinic.services;
 
-public interface PetService<Pet, Long> {
+import com.serega.petclinic.model.Pet;
+
+public interface PetService extends CrudService<Pet, Long> {
 
 }
